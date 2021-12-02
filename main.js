@@ -3,7 +3,7 @@ const ctx = canvas.getContext("2d");
 
 const ROW = 18;
 const COL = 10;
-const SQ  = 40;
+const SQ  = 30;
 const COLOR = "WHITE";
 
 let score = 0;
